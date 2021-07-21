@@ -1,0 +1,9 @@
+#app-mount .guilds-1SWlCJ {
+  background: var(--background-dark);
+  .scrollerBase-289Jih {
+    background: var(--background-dark);
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}
